@@ -12,4 +12,4 @@ This repository consists of 4 jupyter notebooks where agents are trained to kill
 
 https://user-images.githubusercontent.com/101405852/202919608-111e350c-a5de-4095-8006-75c014ca0144.mp4
 
-https://user-images.githubusercontent.com/101405852/202925800-8f744ddb-888f-4164-987c-f78c415cd19c.mp4
+https://user-images.githubusercontent.com/101405852/202925839-c113a0f4-c093-4018-a9e1-c9d100751b35.mp4
