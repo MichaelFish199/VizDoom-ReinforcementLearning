@@ -10,3 +10,5 @@ This repository consists of 4 jupyter notebooks where agents are trained to kill
 [<img src=https://github.com/MichaelFish199/VizDoom-ReinforcementLearning/tools/Basic.mp4>](https://github.com/MichaelFish199/VizDoom-ReinforcementLearning/tools/Basic.mp4)
 
 [<img src=https://github.com/MichaelFish199/VizDoom-ReinforcementLearning.git/tools/Basic.mp4>](https://github.com/MichaelFish199/VizDoom-ReinforcementLearning.git/tools/Basic.mp4)
+
+[<img src=tools/Basic.mp4>](tools/Basic.mp4)
