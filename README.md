@@ -8,3 +8,6 @@ This repository consists of 4 jupyter notebooks where agents are trained to kill
   - VizDoom-DeadlyCorridor.ipynb where agent can do anythink but has to reach end of corridor (enemies are at the sides)
   
 [<img src=https://youtube.com/shorts/z6MuY1972SM?feature=share>](https://youtube.com/shorts/z6MuY1972SM?feature=share)
+
+
+![mqdefault](https://user-images.githubusercontent.com/101405852/202919448-fd09dba2-7ae8-49d3-a9fe-59b8570c3919.jpg)
