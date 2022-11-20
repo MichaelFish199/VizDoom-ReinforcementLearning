@@ -7,8 +7,4 @@ This repository consists of 4 jupyter notebooks where agents are trained to kill
   - VizDoom-DefendTheLine.ipynb where agent can move left or right and shoot (enemies spawn in front of him),
   - VizDoom-DeadlyCorridor.ipynb where agent can do anythink but has to reach end of corridor (enemies are at the sides)
   
-[<img src=https://github.com/MichaelFish199/VizDoom-ReinforcementLearning/tools/Basic.mp4>](https://github.com/MichaelFish199/VizDoom-ReinforcementLearning/tools/Basic.mp4)
-
-[<img src=https://github.com/MichaelFish199/VizDoom-ReinforcementLearning.git/tools/Basic.mp4>](https://github.com/MichaelFish199/VizDoom-ReinforcementLearning.git/tools/Basic.mp4)
-
-[<img src=/tools/Basic.mp4>](/tools/Basic.mp4)
+[<img src=https://youtube.com/shorts/z6MuY1972SM?feature=share>](https://youtube.com/shorts/z6MuY1972SM?feature=share)
